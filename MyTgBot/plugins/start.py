@@ -93,20 +93,7 @@ async def close(_, query: CallbackQuery):
 BUTTON = [[InlineKeyboardButton("🔙 Back", callback_data="help_back"),
             InlineKeyboardButton("🗑 Close", callback_data='close'),]]
 
-ADMIN_TEXT = """
-Usage of admin commands:
-• /promote - promote a user.
-• /demote - demote a user.
-• /kick - kick a user.
-• /ban - ban a user.
-• /unban - unban a user.
-• /pin - pin a message.
-• /unpin - unpin a message.
-• /del - delete a message.
-• /setgpic - set group pic.
-• /setgtitle - set group title.
-• /purge - purge a message.
-"""
+
 
 @bot.on_callback_query(filters.regex("admin_help"))
 async def adminhelp(_, query: CallbackQuery):
