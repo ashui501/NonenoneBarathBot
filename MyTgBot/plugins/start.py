@@ -7,10 +7,13 @@ from pyrogram.types import CallbackQuery
 from MyTgBot import bot
 
 START_TEXT = """
-Hello there i am Serena ✘
+ʜᴇʏ
+ㅤ
+ɪ ᴀᴍ ʏᴏᴜʀ Hinata shoyou ʙᴏᴛ
+▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱
+➥ ɪ ᴀᴍ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀɴᴅ ᴀᴅᴠᴀɴᴄᴇ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ꜱᴏᴍᴇ ᴀᴡᴇꜱᴏᴍᴇ ꜰᴇᴀᴛᴜʀᴇs.
 
-I have lot of useful features and i can easily manage your groups!
-"""
+ᴜɴʟᴏᴄᴋɪɴɢ ꜱᴛʀᴜᴄᴛᴜʀᴇᴅ ʟɪɴᴇ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ, ᴀɴᴅ ᴄᴜᴛᴛɪɴɢ-ᴇᴅɢᴇ ᴀɪ ꜰᴇᴀᴛᴜʀᴇꜱ ꜰᴏʀ ᴇꜰꜰᴏʀᴛʟᴇꜱꜱ ɢʀᴏᴜᴘ ᴍᴀꜱᴛᴇʀʏ! ◎✨
 
 buttons = [
         [
