@@ -95,7 +95,6 @@ BUTTON = [[InlineKeyboardButton("🔙 Back", callback_data="help_back"),
 
 ADMIN_TEXT = """
 Usage of admin commands:
-• /admins - to find group admins.
 • /promote - promote a user.
 • /demote - demote a user.
 • /kick - kick a user.
